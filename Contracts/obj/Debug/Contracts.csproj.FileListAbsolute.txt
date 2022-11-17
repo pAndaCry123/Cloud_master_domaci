@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\BookApp\Contracts\bin\Debug\Contracts.dll
+C:\Users\Korisnik\Desktop\BookApp\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Korisnik\Desktop\BookApp\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\BookApp\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\BookApp\Contracts\obj\Debug\Contracts.dll
+C:\Users\Korisnik\Desktop\BookApp\Contracts\obj\Debug\Contracts.pdb
